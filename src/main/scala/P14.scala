@@ -1,6 +1,6 @@
 /*
  * P14.scala
- * Copyright (C) 2017 yuhuan.qiu <yuhuan.qiu@YuhuanQuiMBP>
+ * Copyright (C) 2017 yuhuan.qiu <yq56@cornell.edu>
  *
  * Distributed under terms of the MIT license.
  */
